@@ -7,7 +7,7 @@ to the Size of the Head", Biometrika, Vol. 4, pp105-123
 Weblink: http://www.stat.ufl.edu/~winner/datasets.html.
 
 # Feature Descriptions 
-Gender  
-Age Range  
-Head size (cm^3)
-Brain weight (grams)
+1. Gender  
+2. Age Range  
+3. Head size (cm^3)
+4. Brain weight (grams)
